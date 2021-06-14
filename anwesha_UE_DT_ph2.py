@@ -1,4 +1,4 @@
-#!/home/users/nikela/tensorflow-env/bin/python
+
 import os
 import sys
 
